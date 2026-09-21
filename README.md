@@ -16,4 +16,4 @@ Java와 Spring으로 웹 개발을 공부하며, React 화면과 API·데이터�
 **Java · Spring Boot · JPA · MySQL**  
 React · JavaScript · Tailwind CSS · Git · Docker Compose
 
-대표 프로젝트의 서비스 소개, 개인 기여, 실제 코드 근거는 **[TokTrip 저장소](https://github.com/Moonse01/toktrip)**에서 확인할 수 있습니다.
+대표 프로젝트의 서비스 소개, 개인 기여, 실제 코드 근거는 [TokTrip 저장소](https://github.com/Moonse01/toktrip)에서 확인할 수 있습니다.
